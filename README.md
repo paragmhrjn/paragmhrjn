@@ -136,8 +136,17 @@ I'm a passionate **Full-Stack Developer** with a heart that beats for **Frontend
   <a href="https://paragmhrjn.github.io/Simple-Portfolio-Design/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paragmhrjn&repo=Simple-portfolio-Design&layout=compact&theme=tokyonight" height="150" width="45%"/>
   </a>
+  
   <a href="https://github.com/paragmhrjn/Landingpage">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paragmhrjn&repo=Landingpage&layout=compact&theme=tokyonight" width="45%" height="150" />
+  </a>
+  
+  <a href="https://paragmhrjn.github.io/vs-code-portfolio/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paragmhrjn&repo=vs-code-portfolio&layout=compact&theme=tokyonight" width="45%" height="150" />
+  </a>
+  
+  <a href="https://github.com/paragmhrjn/MyStory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paragmhrjn&repo=MyStory&layout=compact&theme=tokyonight" width="45%" height="150" />
   </a>
  
 </div>
