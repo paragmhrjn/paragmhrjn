@@ -119,20 +119,29 @@ I'm a passionate **Full-Stack Developer** with a heart that beats for **Frontend
 
 ## 📊 GitHub Analytics
 
-<div align="justify">
- <img height="165em" width="45%" src="https://github-readme-stats.vercel.app/api?username=paragmhrjn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragmhrjn&layout=compact&langs_count=8&theme=tokyonight"/>
+<div align="center">
+   <!-- Row 1 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+  <!-- GitHub Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paragmhrjn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paragmhrjn&theme=tokyonight"  width="49%" height="170" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragmhrjn&layout=compact&langs_count=8&theme=tokyonight" width="48%" />
+  </div>
+<!-- Row 2 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+  <!-- GitHub Streak -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=paragmhrjn&theme=tokyonight" width="48%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paragmhrjn&layout=compact&theme=tokyo-night&area=true&hide_border=true" width="49%" height="170" />
+  <!-- Activity Graph -->
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=paragmhrjn&layout=compact&theme=tokyo-night&area=true&hide_border=true" width="48%" />
+</div>
 </div>
 
 ---
 
 ## 🏆 Featured Projects
 
-<div align="justify">
+<div align="center" style=" padding: 20px;">
   <a href="https://paragmhrjn.github.io/Simple-Portfolio-Design/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paragmhrjn&repo=Simple-portfolio-Design&layout=compact&theme=tokyonight" height="150" width="45%"/>
   </a>
